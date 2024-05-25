@@ -1,0 +1,11 @@
+commit eaf57d76169e8e860910841719a7a5b6485e039f
+Author: Gary Chizm <ichizhov@gmail.com>
+Date:   Fri May 24 19:41:00 2024 -0400
+
+    added gitignore
+
+commit 2b82bad375508bf2a9335bbdd595e4cacae18c67
+Author: Gary Chizm <ichizhov@gmail.com>
+Date:   Fri May 24 18:01:42 2024 -0400
+
+    readme.txt
